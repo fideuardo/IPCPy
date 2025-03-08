@@ -24,8 +24,6 @@ This project will develop an Example Intrument Panel Cluster
 #### 3.3.1. Speedometer
 #### 3.3.2. Tachometer
 #### 3.3.3. Warnings Lights
-- Speed
-- Engine RPM
 - Engine Temperature
 - Battery Voltage
 - Turn signal indicator
@@ -52,5 +50,5 @@ TBD
 
 <aside class="important">
     <strong>❗ Important:</strong> 
-    <p>This project requires Python 3.8 or higher.</p>
+    <p>This project requires Python 3.12.8 or higher.</p>
 </aside>
