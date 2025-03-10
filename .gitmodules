@@ -1,0 +1,6 @@
+[submodule "libs/interfaces/speedometer"]
+    path = libs/interfaces/speedometer
+    url = git@github.com:fideuardo/IPC.git
+[submodule "libs/interfaces/IPCpy"]
+    path = libs/interfaces/IPCpy
+    url = git@github.com:fideuardo/IPCGLpy.git
