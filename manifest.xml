@@ -1,0 +1,13 @@
+<project>
+    <name>IPCGLpy</name>
+    <description>Library with graphic tools</description>
+    <version>1.0.0</version>
+    <repository>https://github.com/fideuardo/IPCGLpy.git</repository>
+    <license>MIT</license>
+    <authors>
+        <author>fideuardo</author>
+    </authors>
+    <dependencies>
+        <!-- Dependencias aquí -->
+    </dependencies>
+</project>
