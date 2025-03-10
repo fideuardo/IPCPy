@@ -1,13 +1,7 @@
-<project>
-    <name>IPCGLpy</name>
-    <description>Library with graphic tools</description>
-    <version>1.0.0</version>
-    <repository>https://github.com/fideuardo/IPCGLpy.git</repository>
-    <license>MIT</license>
-    <authors>
-        <author>fideuardo</author>
-    </authors>
-    <dependencies>
-        <!-- Dependencias aquí -->
-    </dependencies>
-</project>
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="github" fetch="https://github.com/"/>
+    <default revision="master" remote="github" sync-j="4"/>
+
+    <project path="Interface/Speedometer/" name="fideuardo/IPCGLpy.git" />
+</manifest>
