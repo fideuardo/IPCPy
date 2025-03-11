@@ -1,3 +1,3 @@
-[submodule "src/services/interface/speedometer"]
-	path = src/services/interface/speedometer
+[submodule "src/services/interface"]
+	path = src/services/interface
 	url = git@github.com:fideuardo/SpeedometerPy.git
