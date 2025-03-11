@@ -1,0 +1,3 @@
+[submodule "src/Services/Interfaces/speedometer"]
+	path = src/Services/Interfaces/speedometer
+	url = git@github.com:fideuardo/IPC.git
