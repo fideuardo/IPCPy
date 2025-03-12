@@ -4,10 +4,11 @@
 This project will develop an Example Intrument Panel Cluster  
 <aside class="info" style="border: 2px solid green; padding: 10px; border-radius: 5px; background-color: #e8f5e9;">
     <strong>ℹ️ Info</strong>
-    <p>I am working defining the features and procject scope</p>
+    <p>This document is updated daily</p>
 </aside>
 
 ## 1. Introduction
+The present project will be used to develop tools to create functional tests from functional requirements.
 ## 2. Requirements
 ### 2.1. Fucntional Requirements
 #### 2.1.1. Speedometer and tachometer visibility
@@ -20,6 +21,9 @@ This project will develop an Example Intrument Panel Cluster
 #### 3.1.2. Messages
 #### 3.1.3. Error Comunication Managment
 ### 3.2. Memory Managment
+#### 3.2.1. Signal Message
+The information exchange will be done throught of Message Module (MM). SMM has the capcity to create ports to make the 
+#### 3.2.2. Non volatile memory
 ### 3.3. User Interface
 #### 3.3.1. Speedometer
 #### 3.3.2. Tachometer
